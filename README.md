@@ -152,17 +152,7 @@ Day1
 
 ## Application Flow
 
-User Input
-    ↓
-Input Validation
-    ↓
-Student Dictionary
-    ↓
-Pandas DataFrame
-    ↓
-CSV Storage
-    ↓
-Search / Update / Delete / Sort / Analysis
+User Input -> Input Validation -> Student Dictionary -> Pandas DataFrame -> CSV Storage -> Search / Update / Delete / Sort / Analysis
 
 ## Data Storage
 
