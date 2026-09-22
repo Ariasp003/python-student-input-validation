@@ -109,7 +109,7 @@ Day1/
 ├── day_01_input_validation.py
 ├── students_scores.csv
 ├── pyproject.toml
-├── 1.txt
+├── LICENSE
 ├── README.md
 └── .gitignore
 
