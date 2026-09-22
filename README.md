@@ -105,7 +105,8 @@ The application validates user input before saving student information.
 
 ## Project Structure
 
-Day1/
+Day1
+
 ├── day_01_input_validation.py
 
 ├── students_scores.csv
