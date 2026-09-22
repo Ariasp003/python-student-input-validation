@@ -107,10 +107,15 @@ The application validates user input before saving student information.
 
 Day1/
 ├── day_01_input_validation.py
+
 ├── students_scores.csv
+
 ├── pyproject.toml
+
 ├── LICENSE
+
 ├── README.md
+
 └── .gitignore
 
 ## Technologies Used
